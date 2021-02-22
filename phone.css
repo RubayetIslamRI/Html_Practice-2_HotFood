@@ -1,0 +1,34 @@
+/* navigation section */
+#navbar {
+  flex-direction: column;
+}
+
+/* home section */
+
+#home {
+  height: 370px;
+}
+#home ::before {
+  height: 480;
+}
+
+#home p {
+  font-size: 13px;
+}
+/* service section */
+
+#services {
+  flex-direction: column;
+}
+/* clint section */
+#clints {
+  overflow: auto;
+}
+
+/* contact section */
+
+/* footer section */
+/* utility classes */
+.h-primary {
+  font-size: 17px;
+}
